@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 小薛丁格科學手作坊</title>
-    <link>/categories/</link>
+    <link>https://ywc7831.github.io/schrodinger_lab/categories/</link>
     <description>Recent content in Categories on 小薛丁格科學手作坊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>&amp;copy; 2020 B01公司保有一切權利, Powered by [Themefisher](https://themefisher.com) for [Hugo](https://gohugo.io/)</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ywc7831.github.io/schrodinger_lab/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>/categories/artificial-intelligence/</link>
+      <link>https://ywc7831.github.io/schrodinger_lab/categories/artificial-intelligence/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/categories/artificial-intelligence/</guid>
+      <guid>https://ywc7831.github.io/schrodinger_lab/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Company News</title>
-      <link>/categories/company-news/</link>
+      <link>https://ywc7831.github.io/schrodinger_lab/categories/company-news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/categories/company-news/</guid>
+      <guid>https://ywc7831.github.io/schrodinger_lab/categories/company-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legacy Support</title>
-      <link>/categories/legacy-support/</link>
+      <link>https://ywc7831.github.io/schrodinger_lab/categories/legacy-support/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/categories/legacy-support/</guid>
+      <guid>https://ywc7831.github.io/schrodinger_lab/categories/legacy-support/</guid>
       <description></description>
     </item>
     
