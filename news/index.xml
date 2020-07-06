@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>最新消息 on 小薛丁格科學手作坊</title>
-    <link>/news/</link>
+    <link>https://ywc7831.github.io/schrodinger_lab/news/</link>
     <description>Recent content in 最新消息 on 小薛丁格科學手作坊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>&amp;copy; 2020 B01公司保有一切權利, Powered by [Themefisher](https://themefisher.com) for [Hugo](https://gohugo.io/)</copyright>
     <lastBuildDate>Sat, 04 Jul 2020 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ywc7831.github.io/schrodinger_lab/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>因應防疫最新上課規定</title>
-      <link>/news/news-3/</link>
+      <link>https://ywc7831.github.io/schrodinger_lab/news/news-3/</link>
       <pubDate>Sat, 04 Jul 2020 11:07:10 +0600</pubDate>
       
-      <guid>/news/news-3/</guid>
+      <guid>https://ywc7831.github.io/schrodinger_lab/news/news-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>周末兒童手作體驗坊最新資訊</title>
-      <link>/news/news-6/</link>
+      <link>https://ywc7831.github.io/schrodinger_lab/news/news-6/</link>
       <pubDate>Tue, 25 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/news/news-6/</guid>
+      <guid>https://ywc7831.github.io/schrodinger_lab/news/news-6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>公益課程第一期準備開課!</title>
-      <link>/news/news-1/</link>
+      <link>https://ywc7831.github.io/schrodinger_lab/news/news-1/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/news/news-1/</guid>
+      <guid>https://ywc7831.github.io/schrodinger_lab/news/news-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
