@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Pricing on 小薛丁格科學手作坊</title>
+    <link>http://demo.themefisher.com/airspace-hugo/pricing/</link>
+    <description>Recent content in Our Pricing on 小薛丁格科學手作坊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>&amp;copy; 2020 B01公司保有一切權利, Powered by [Themefisher](https://themefisher.com) for [Hugo](https://gohugo.io/)</copyright>
+    
+	<atom:link href="http://demo.themefisher.com/airspace-hugo/pricing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
