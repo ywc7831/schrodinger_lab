@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mechine on 小薛丁格科學手作坊</title>
+    <title>Mechine on 混科學實驗室</title>
     <link>https://ywc7831.github.io/schrodinger_lab/tags/mechine/</link>
-    <description>Recent content in Mechine on 小薛丁格科學手作坊</description>
+    <description>Recent content in Mechine on 混科學實驗室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <copyright>&amp;copy; 2020 B01公司保有一切權利, Powered by [Themefisher](https://themefisher.com) for [Hugo](https://gohugo.io/)</copyright>
+    <copyright>&amp;copy; 2020 混科學實驗室保有一切權利, Powered by [Themefisher](https://themefisher.com) for [Hugo](https://gohugo.io/)</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://ywc7831.github.io/schrodinger_lab/tags/mechine/index.xml" rel="self" type="application/rss+xml" />
@@ -27,6 +27,15 @@
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
       <guid>https://ywc7831.github.io/schrodinger_lab/course/course-post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>https://ywc7831.github.io/schrodinger_lab/news/course-post-4/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://ywc7831.github.io/schrodinger_lab/news/course-post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
