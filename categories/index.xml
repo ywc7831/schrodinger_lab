@@ -7,37 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>&amp;copy; 2020 混科學實驗室保有一切權利, Powered by [Themefisher](https://themefisher.com) for [Hugo](https://gohugo.io/)</copyright>
-    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://ywc7831.github.io/schrodinger_lab/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://ywc7831.github.io/schrodinger_lab/categories/artificial-intelligence/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://ywc7831.github.io/schrodinger_lab/categories/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Company News</title>
-      <link>https://ywc7831.github.io/schrodinger_lab/categories/company-news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://ywc7831.github.io/schrodinger_lab/categories/company-news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legacy Support</title>
-      <link>https://ywc7831.github.io/schrodinger_lab/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://ywc7831.github.io/schrodinger_lab/categories/legacy-support/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
